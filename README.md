@@ -1,4 +1,4 @@
-![Head](img/head.png)
+![Head](img/koch.png)
 
 ## :robot: Stuff I like
 
