@@ -1,6 +1,6 @@
-# SANTINO FUENTES
+![Head](img/head.png)
 
-## :robot:
+## :robot: Stuff I like
 
 <!--
 Fuente de los íconos:
