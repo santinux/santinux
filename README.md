@@ -21,7 +21,7 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons
 <br>
 <p>
 <details>
-<summary>Abajo digo todo sobre mi</summary>
+<summary>Abajo dice todo sobre mi</summary>
 Todo sobre mi.
 </details>
 </p>
