@@ -1,6 +1,6 @@
 ![Head](img/koch.png)
 
-### El orden natural es el caos
+## El orden natural es el caos
 
 <!--
 Fuente de los íconos:
